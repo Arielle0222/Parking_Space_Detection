@@ -13,14 +13,6 @@ This project focuses on detecting parking spaces using both traditional image pr
 
 ## 💻 Technical Stack
 
-### Development Environment & Tools
-
-<div align="left">
-    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=Jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-</div>
-
 ### Programming Languages & Frameworks
 
 <div align="left">
@@ -36,13 +28,9 @@ This project focuses on detecting parking spaces using both traditional image pr
     <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat&logo=NVIDIA&logoColor=white" />
 </div>
 
-### Version Control & File Sharing
-
-<div align="left">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=GoogleDrive&logoColor=white" />
-</div>
-
 ## 📼 Demo
+
+![YOLO Demo Image](yolo_demo_img.png)
+![City Demo Image](city_demo_img.png)
+
 [Watch the demo video on Google Drive](https://drive.google.com/drive/folders/1Vg_oa_r5s_gYFnLBLm-cYhLv_40ciIT6)
