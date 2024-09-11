@@ -11,6 +11,15 @@
 ## 🔍 Project Overview
 This project focuses on detecting parking spaces using both traditional image processing techniques and deep learning-based object recognition algorithms. Our objective is to develop an AI model for autonomous vehicles capable of accurately detecting and classifying parking spaces, driveable spaces, pedestrians, and vehicles.
 
+## 🛠️ Model Implementation Summary
+
+| **Model**    | **Backbone**         | **Purpose**                                                                 | **Training Details**                                                                 | **Performance**                                 | **Challenges**                                           |
+|--------------|----------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------|----------------------------------------------------------|
+| **Mask R-CNN** | ResNet-50 (ImageNet) | Object detection and instance segmentation for **Parking Spaces** and **Driveable Spaces** | - Classes: 2 (Parking Space, Driveable Space) <br> - Epochs: 10 <br> - Batch Size: 32 <br> - Optimizer: Adam (lr=0.001) | Achieved **82.7% AP** for parking space and driveable area detection | None                                                      |
+| **YOLOv8**   | N/A                  | Enhance detection of smaller objects like **Pedestrians** and **Vehicles**  | - Classes: 2 (Person, Vehicle) <br> - Integrated with Mask R-CNN for better performance | Achieved **74.4% AP** with 4-class setup (Parking Space, Driveable Space, Person, Vehicle) | False positives (e.g., misclassifying trees or poles as people) |
+
+
+
 ## 💻 Technical Stack
 
 ### Programming Languages & Frameworks
