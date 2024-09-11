@@ -33,4 +33,4 @@ This project focuses on detecting parking spaces using both traditional image pr
 ![YOLO Demo Image](yolo_demo_img.png)
 ![City Demo Image](city_demo_img.png)
 
-[Watch the demo video on Google Drive](https://drive.google.com/drive/folders/1Vg_oa_r5s_gYFnLBLm-cYhLv_40ciIT6)
+👉 [Watch the demo video on Google Drive](https://drive.google.com/drive/folders/1Vg_oa_r5s_gYFnLBLm-cYhLv_40ciIT6)
