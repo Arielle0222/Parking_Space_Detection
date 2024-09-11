@@ -29,8 +29,15 @@ This project focuses on detecting parking spaces using both traditional image pr
 </div>
 
 ## 📼 Demo
+👉 [Watch the demo video in here!](https://drive.google.com/drive/folders/1Vg_oa_r5s_gYFnLBLm-cYhLv_40ciIT6)
 
 ![YOLO Demo Image](yolo_demo_img.png)
 ![City Demo Image](city_demo_img.png)
 
-👉 [Watch the demo video on Google Drive](https://drive.google.com/drive/folders/1Vg_oa_r5s_gYFnLBLm-cYhLv_40ciIT6)
+---
+
+## 📊 Dataset & References
+
+- **AI Hub Parking Space Dataset:** [AI Hub Data Link](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=598)
+- Reference 1: https://dacon.io/en/competitions/official/235672/codeshare/1795
+- Reference 2: https://lyclyc52.github.io/SANeRF-HQ/
