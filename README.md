@@ -1,4 +1,4 @@
-## 🚙 Parking Space Detection Project using Image Processing and Object Recognition
+## 🚙 Parking Space Detection Project using Image Processing & Object Recognition
 
 **Team Name:** 기둥 뒤에 공간 있어요!  
 **Project Duration:** August 20, 2024 - September 9, 2024  
